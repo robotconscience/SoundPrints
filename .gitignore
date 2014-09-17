@@ -1,0 +1,4 @@
+*.app
+xcuserdatad
+xcuserdata
+project.xcworkspace
